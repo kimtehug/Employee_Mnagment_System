@@ -1,0 +1,1 @@
+A simple Java-based Employee Management System that allows users to add, view, and manage employee details like ID, name, and salary. The system also calculates HRA, DA, and gross salary for each employee using console-based user input. Ideal for beginners learning Java and OOP concepts.
